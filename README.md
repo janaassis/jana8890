@@ -5,6 +5,18 @@ Olá , Eu sou a Janaína , sou uma desenvolvedora Front - End , que saiu da àre
 
 [![janaassis GitHub stats](https://github-readme-stats.vercel.app/api?username=janaassis)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janaassis&show_icons=true&theme=radical)
+<div class= "icons>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height= 100px width= 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 80px width= 40px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height= 80px width = 40px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height= 80px width = 40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height= 80px width = 40px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height= 80px width = 40px />
+
+</div>
+
+
+
 
 
 <!---
