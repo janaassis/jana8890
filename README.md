@@ -4,7 +4,8 @@ Olá , Eu sou a Janaína , sou uma desenvolvedora Front - End , que saiu da àre
 - 🌱 I’m currently learning JavaScript,Html,CSS , Git, Github, React, Typescript.
 
 ![
-jana8890 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+janaassis
+ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!---
