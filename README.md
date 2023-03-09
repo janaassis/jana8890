@@ -5,7 +5,7 @@ Olá , Eu sou a Janaína , sou uma desenvolvedora Front - End , que saiu da àre
 
 [![janaassis GitHub stats](https://github-readme-stats.vercel.app/api?username=janaassis)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janaassisa&hide_progress=true)](https://github.com/janaassis/github-readme-stats)
 <!---
 jana8890/jana8890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
